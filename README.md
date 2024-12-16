@@ -91,8 +91,8 @@ Same as the `Get Videos` response format.
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/ichbingautam/youtube-video-fetcher.git)
-   cd project_root
+   git clone https://github.com/ichbingautam/youtube-video-fetcher.git
+   cd youtube-video-fetcher
    ```
 
 2. **Install Dependencies**:
