@@ -12,6 +12,10 @@ This project provides a scalable API for fetching and searching YouTube videos b
 - **Dockerized**: Ready to run in a containerized environment.
 - **Scalable**: Designed to handle high-frequency updates and searches.
 
+## Dasboard
+ <img width="1728" alt="Screenshot 2024-12-16 at 4 39 45 PM" src="https://github.com/user-attachments/assets/7f09f4aa-f0a2-4df9-854f-e023e2363bb4" />
+
+
 ## Project Structure
 
 ```
@@ -87,7 +91,7 @@ Same as the `Get Videos` response format.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/ichbingautam/youtube-video-fetcher.git)
    cd project_root
    ```
 
