@@ -27,7 +27,7 @@ project_root/
 |-- repositories/
 |   |-- video_repository.py    # API handlers
 |-- routes/
-    |-- dashboard_routes.py    # Dashboard route handlers
+|   |-- dashboard_routes.py    # Dashboard route handlers
 |   |-- video_routes.py        # API route handlers
 |-- services/
 |   |-- youtube_service.py # YouTube API integration
