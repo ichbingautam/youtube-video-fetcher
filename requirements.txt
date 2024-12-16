@@ -1,0 +1,8 @@
+Flask==2.2.5
+Flask-SQLAlchemy==3.0.5
+SQLAlchemy==2.0.20
+psycopg2-binary==2.9.7  # For PostgreSQL support
+requests==2.31.0
+APScheduler==3.10.4
+gunicorn==20.1.0  # For running Flask in production
+python-dotenv==1.0.0  # For managing environment variables
